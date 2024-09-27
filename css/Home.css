@@ -1,0 +1,4 @@
+#todoHistoryContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
